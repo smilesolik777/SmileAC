@@ -7,5 +7,5 @@
 
 ## Соц-сети
 - Телеграм канал: https://t.me/SmileAcRecode
-- Дискорд сервер: https://discord.gg/kCjfG7PHfK
+- Дискорд сервер: http://dsc.gg/smileacrecode
 - Мой дискорд: smilesolik
